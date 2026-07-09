@@ -1,0 +1,3 @@
+# Stdlib only — no external dependencies
+# Python 3.8+
+# hashlib, re, time, argparse, json — all built-in
